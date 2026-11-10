@@ -1,0 +1,4 @@
+# runtime state: Anubis/XSRF cookies, cached images, transient JSON
+data/
+tmp/
+*.log
