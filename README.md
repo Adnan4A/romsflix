@@ -1,6 +1,6 @@
 # Romsflix
 
-A modern game catalog over **axekin.com**'s IGDB-sourced title records, with a per-title
+
 download box (base / update / DLC links, copy, open, availability check).
 
 Everything runs on PowerShell 5.1 (`System.Net.Sockets.TcpListener` + `curl.exe`) — no Node,
